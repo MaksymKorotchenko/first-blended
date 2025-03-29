@@ -225,9 +225,7 @@ button {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-.attributes-container {
-  grid-auto-flow: ;
-}
+
 .attributes-title {
   font-size: 32px;
   text-align: center;
@@ -470,8 +468,7 @@ button {
   padding-top: 50px;
   padding-bottom: 85px;
 }
-.strategies-container {
-}
+
 .strategies-title {
   font-size: 34px;
   margin-bottom: 10px;
